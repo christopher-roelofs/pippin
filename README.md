@@ -3,6 +3,12 @@ Pippin or Pi Pen is a collection of resources for security analysis and penetrat
 
 There are many projects that use ESP32 and devices like Flipper that bring together multiple pieces of hardware with a nice interface but I still think there is a place for SBC like a Raspberry PI that can run a full linux os and take advantage of both USB and gpio to expand hardware functionality.
 
+## Projects
+
+### PWNAGOTCHI
+
+[Pwnagotchi](https://pwnagotchi.ai/) is an A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures (either through passive sniffing or by performing deauthentication and association attacks). This material is collected on disk as PCAP files containing any form of handshake supported by hashcat, including full and half WPA handshakes as well as PMKIDs.
+
 
 ## Hardware
 ### nRF24 
@@ -38,3 +44,13 @@ The PN532 is a highly integrated transceiver module for contactless communicatio
 The USB Rubber Ducky is a Human Interface Device programmable with a simple scripting language allowing penetration testers to quickly and easily craft and deploy security auditing payloads that mimic human keyboard input.
 
 [Duckberry-Pi](https://github.com/ossiozac/Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi)
+
+### Captive Portal / Evil Twin
+
+[Evil-AP](https://github.com/MohammedRaouf99/Evil-AP)
+
+[Evil-Twin-tool](https://github.com/vection/Evil-Twin-tool)
+
+[Rudrastra](https://github.com/vrikodar/Rudrastra)
+
+

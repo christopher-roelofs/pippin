@@ -53,4 +53,9 @@ The USB Rubber Ducky is a Human Interface Device programmable with a simple scri
 
 [Rudrastra](https://github.com/vrikodar/Rudrastra)
 
+[PiEvilTwin](https://github.com/NickJongens/PiEvilTwin)
+
+### Rogue AP see [Captive Portal / Evil Twin](#captive-portal--evil-twin)
+
+[rpihotspot](https://github.com/idev1/rpihotspot)
 

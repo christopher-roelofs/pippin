@@ -55,6 +55,11 @@ The USB Rubber Ducky is a Human Interface Device programmable with a simple scri
 
 [PiEvilTwin](https://github.com/NickJongens/PiEvilTwin)
 
+### BLE
+
+[AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing
+
+
 ### Rogue AP see [Captive Portal / Evil Twin](#captive-portal--evil-twin)
 
 [rpihotspot](https://github.com/idev1/rpihotspot)

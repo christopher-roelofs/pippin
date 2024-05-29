@@ -55,6 +55,10 @@ The USB Rubber Ducky is a Human Interface Device programmable with a simple scri
 
 [PiEvilTwin](https://github.com/NickJongens/PiEvilTwin)
 
+### RFID/NFC
+
+[RFIDIOt](https://github.com/AdamLaurie/RFIDIOt)
+
 ### BLE
 
 [AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing

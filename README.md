@@ -64,3 +64,7 @@ The USB Rubber Ducky is a Human Interface Device programmable with a simple scri
 
 [rpihotspot](https://github.com/idev1/rpihotspot)
 
+### 433hz(sub 1ghz) remote automation
+
+[433-remote-automation](https://github.com/HappyPaul55/433-remote-automation)
+
